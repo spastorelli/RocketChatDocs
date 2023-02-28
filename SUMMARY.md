@@ -569,3 +569,8 @@
   * [End-to-End Encryption Specifications](rocket.chat-privacy-and-security/security/end-to-end-encryption-algorithms.md)
 * [Data Processing Agreement](rocket.chat-privacy-and-security/data-processing-agreement.md)
 * [GDPR](rocket.chat-privacy-and-security/gdpr.md)
+
+***
+
+* [FAQ Repro](faq-repro.md)
+* [Enhacements Repro](enhacements-repro.md)
