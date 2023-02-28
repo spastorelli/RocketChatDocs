@@ -1,3 +1,3 @@
 # FAQ Repro
 
-export test
+export test.
