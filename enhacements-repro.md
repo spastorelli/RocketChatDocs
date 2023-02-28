@@ -1,3 +1,3 @@
 # Enhacements Repro
 
-export test
+export test.
