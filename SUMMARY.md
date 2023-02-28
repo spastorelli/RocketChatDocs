@@ -5,6 +5,8 @@
 ## Deploy
 
 * [Prepare for your Deployment](deploy-rocket.chat/prepare-for-your-deployment/README.md)
+  * [Repro FAQ 2](deploy/prepare-for-your-deployment/repro-faq-2.md)
+  * [Repro Enhancements 2](deploy/prepare-for-your-deployment/repro-enhancements-2.md)
   * [Choosing a Deployment Method](deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/choosing-a-deployment-method.md)
   * [Hardware Requirements](deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/hardware-requirements.md)
   * [Cloud Deployments](deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/cloud-deployments/README.md)
