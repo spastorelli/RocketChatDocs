@@ -55,6 +55,7 @@
       * [Drupal Plug-in](deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/other-deployment-methods/plug-in-deployments/drupal.md)
       * [Pidgin Plug-in](deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/other-deployment-methods/plug-in-deployments/pidgin.md)
   * [Starting & Stopping Docker Compose](deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/starting-and-stopping.md)
+  * [Deployment best practices](deploy/prepare-for-your-deployment/deployment-best-practices.md)
 * [Scaling Rocket.Chat](deploy-rocket.chat/scaling-rocket.chat/README.md)
   * [Microservices Setup](deploy-rocket.chat/scaling-rocket.chat/microservices-setup.md)
   * [Running Multiple Instances](deploy-rocket.chat/scaling-rocket.chat/running-multiple-instances.md)
