@@ -12,6 +12,8 @@ This is to add some edits to the duplicate Space
 
 Hello there how are you?
 
+Adding some more content
+
 ## Product Offerings
 
 Rocket.Chat has product offerings:
