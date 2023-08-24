@@ -24,7 +24,7 @@ If you need full control of your deployment, here are some guides for specific e
 * [Digital Ocean](digitalocean.md)
 * [Meteor Galaxy](../other-deployment-methods/nonofficial-methods/galaxy.md)
 * [Google Compute Engine](https://github.com/spastorelli/RocketChatDocs/blob/test-datasync-changes/quick-start/installing-and-updating/paas-deployments/broken-reference/README.md)
-* [IBM Cloud](ibm-cloud.md)
+* [IBM Cloud](ibm-cloud/)
 * [Syncloud.org](../other-deployment-methods/nonofficial-methods/syncloud.md)
 
 ## Automation Tools

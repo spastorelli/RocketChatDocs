@@ -16,6 +16,8 @@ IBM Cloud have various options for hosting Rocket.Chat, Docker container on a Ku
 * The IBM Cloud command line client (ibmcloud) installed
 * git
 
+Adding some more content to the page. This is to test if all is good.
+
 ## Deploying Rocket.Chat
 
 First, logon to the [IBM Cloud dashboard](https://cloud.ibm.com/) and then select in the Apps box, `Create an app`.
