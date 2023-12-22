@@ -8,6 +8,10 @@
 
 [Rocket.Chat](https://rocket.chat) integrates with multiple conversation channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, thereby constructing a single view of the customer and helping diminish the time needed to switch between the tools. Mobile app for Rocket.Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your own server, or you can use SaaS Rocket.Chat. We offer support and professional services for our enterprise plan.
 
+## Adding stuff from Git
+
+Adding stuff from Git to test things out
+
 ## Product Offerings
 
 Rocket.Chat has four key product offerings:&#x20;
